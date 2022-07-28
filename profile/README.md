@@ -1,11 +1,23 @@
 ## Hi there 👋
 
+✔️ Kami melihat alam daripada sudut yang berbeza. 
+
+✔️ self-proclaimed python enthusiast and High Performance Computing advocate
+
+✔️ love to code
+
+❗  Namun, awas! Kami bukan penyokong **flat earth**
 
 
-**Here are some ideas to get you started:**
+### We're currently learning ...
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+🔓 deep learning stuff
+
+🚧 kubernates deployment
+
+
+###  Disclaimer
+
+⚡ still work in progress
+
+🧐 We look to harness blackhole energy, We are curently developing a *digital twin* of a black hole with myquantung technology... ☠️
